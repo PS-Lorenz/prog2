@@ -1,0 +1,21 @@
+was passiert an tag 1
+git log, git checkout [tag 01.x] Markus steigt in den Dungeon, besiegt eine Ratte, schlich umher, und besiegte noch eine ratte
+
+wann hat markus 4 ep
+tag 01.3
+
+wann hat markus 10 hunger
+tag 02
+
+wie viele heiltränke
+2  tag 03.14 und tag 04.4
+
+was hat er gekauft
+brot (tag 03.9, 5 gold) und heiltrank (tag 03.14, 5 gold)
+
+was passier zwichen tag 3 und 4
+git diff [tag 03] [tag 04] , Markus kauft beim händler essen und einen heiltrank um seinen hunger zu stillen und zu heilen
+
+
+
+
